@@ -1,0 +1,6 @@
+{
+  "elements": [
+    {"id": "KoopaRace", "file": "KoopaRace.json", "name": "Koopa Race (Base)", "type": "race"},
+    {"id": "MagikoopaClass", "file": "MagikoopaClass.json", "name": "Magikoopa (Kamek)", "type": "class"}
+  ]
+}
