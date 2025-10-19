@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "0d0bed1f-86e9-4dcd-96f4-a168a48dc5fc",
+    "source": "User Homebrew"
+  },
+  "name": "Grand Star Cataclysm",
+  "short": "9th-level Evocation",
+  "text": "60-ft radius massive damage and lingering effects."
+}

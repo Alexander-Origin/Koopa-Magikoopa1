@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "d7082af9-454f-4802-9419-307b374c2c52",
+    "source": "User Homebrew"
+  },
+  "name": "Spectral Broom",
+  "short": "Cantrip, Conjuration",
+  "text": "Summon ghostly broom to carry small items; can distract imposing disadvantage on Perception."
+}

@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "5ef5d1f0-bd7f-40e1-b4b5-93fe50fc99d8",
+    "source": "User Homebrew"
+  },
+  "name": "Comical Confusion",
+  "short": "2nd-level Enchantment",
+  "text": "Confuses target; they roll a d4 to determine action each turn."
+}

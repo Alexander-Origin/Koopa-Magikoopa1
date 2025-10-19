@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "fb7a5d26-847c-4bda-aa5f-cca868a53963",
+    "source": "User Homebrew"
+  },
+  "name": "Summon Koopa Squad",
+  "short": "6th-level Conjuration",
+  "text": "Summon 1d4+2 Koopas (max 6)."
+}

@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "9e8076a1-33a9-4ff2-aa4f-4b97b39cc730",
+    "source": "User Homebrew"
+  },
+  "name": "Starburst Bolt",
+  "short": "Cantrip, Evocation",
+  "text": "Ranged spell attack, 1d10 force; gives advantage to next attack vs target until start of your next turn."
+}

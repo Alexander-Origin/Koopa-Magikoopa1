@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "2b36f5c4-d86f-41ca-a7c6-9d7c53576951",
+    "source": "User Homebrew"
+  },
+  "name": "Mini-Morph",
+  "short": "Cantrip, Transmutation",
+  "text": "Shrink/enlarge Tiny object or willing Tiny creature; concentration up to 1 minute."
+}

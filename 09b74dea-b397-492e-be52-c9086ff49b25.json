@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "09b74dea-b397-492e-be52-c9086ff49b25",
+    "source": "User Homebrew"
+  },
+  "name": "Summon Koopa",
+  "short": "3rd-level Conjuration",
+  "text": "Summon a single Koopa ally (roll d8 for type); concentration up to 1 hour."
+}

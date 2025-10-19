@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "27057a40-ad0d-4766-820a-902081770aef",
+    "source": "User Homebrew"
+  },
+  "name": "Polymorph Pop!",
+  "short": "2nd-level Transmutation",
+  "text": "Transform target into Tiny trinket; concentration; ends on heavy damage; feedback damage on return."
+}

@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "3b9374ba-1a7d-41ee-95eb-5e19ce578b2f",
+    "source": "User Homebrew"
+  },
+  "name": "Hexstar Storm",
+  "short": "5th-level Evocation",
+  "text": "20-ft radius, Dex save for 5d10 force damage."
+}

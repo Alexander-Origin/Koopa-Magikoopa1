@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "race",
+    "id": "aa2286a1-8955-44ef-bb39-e42b93f1ff79",
+    "source": "User Homebrew"
+  },
+  "name": "Koopa (base race)",
+  "short": "Base Koopa race",
+  "text": "Koopa Race - Stocky turtlefolk.\nTraits:\n- Ability Score Increases: +2 to one ability and +1 to a different one (or +1 to three scores).\n- Size: Medium. Speed: 30 ft.\n- Instinctive Shell: When you take damage, you can harden your shell to reduce the damage by (proficiency bonus + your CON modifier). Uses = proficiency bonus per long rest.\n- Natural Armor: When not wearing armor, AC = 13 + Dex modifier. Shield works.\n- Turtle Toughness: Hold breath 1 hour; resistance to cold; add +1d4 to saves vs forced movement.\nHeritages: Ground Koopa, Paratroopa, Magikoopa, Dry Koopa (see separate heritage entries).\n"
+}

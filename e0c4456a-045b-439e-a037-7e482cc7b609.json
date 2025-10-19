@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "class",
+    "id": "e0c4456a-045b-439e-a037-7e482cc7b609",
+    "source": "User Homebrew"
+  },
+  "name": "Magikoopa (Kamek) - base class",
+  "short": "Magikoopa class",
+  "text": "Magikoopa (Kamek) Class - Full caster, Intelligence-based.\nFeatures (Level 1):\n- Hit Die: d6. HP at 1st: 6 + Con mod.\n- Proficiencies: Saves Int, Cha. Weapons: Daggers, Slings, Quarterstaffs, Wands, Light Crossbows.\n- Spellcasting: Wizard-like (spellbook, prepared spells).\n- Chaotic Casting: Roll a d4 when casting 1st+ level spells for a minor effect.\n- Trickster's Step: Bonus Action teleport 15 ft. Uses = Int mod + PB per long rest.\nIncludes all 3 subclasses: Grand Advisor, Arcane Prankster, Reality Shaper (details in separate entries).\n"
+}

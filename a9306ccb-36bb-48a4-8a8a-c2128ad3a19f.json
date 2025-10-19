@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "a9306ccb-36bb-48a4-8a8a-c2128ad3a19f",
+    "source": "User Homebrew"
+  },
+  "name": "Rewrite Reality",
+  "short": "9th-level Transmutation",
+  "text": "Rewrite a 30-ft radius area as desired."
+}

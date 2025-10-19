@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "elementType": "spell",
+    "id": "8147c7d6-e1b9-49c0-bcea-36e78acc8bf4",
+    "source": "User Homebrew"
+  },
+  "name": "Mop-Up Magic",
+  "short": "Cantrip, Transmutation",
+  "text": "Clean or repair small areas/objects."
+}
